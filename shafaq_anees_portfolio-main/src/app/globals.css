@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-image{
+    background-image: url("../../public/assests/picture/images.jfif");
+}
